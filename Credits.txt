@@ -1,0 +1,6 @@
+This is a project downloaded from 
+
+http://krams915.blogspot.com/2011/01/spring-mvc-3-and-jquery-integration.html
+
+I do not claim to have written this code, but uploaded as it was really helpful in creating a skeleton. 
+
